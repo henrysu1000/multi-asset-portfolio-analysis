@@ -74,4 +74,10 @@ This project performs a full quantitative analysis of 8–12 financial assets us
 
 ---
 
-## 📁 File Structure
+## 📌 Purpose
+This project demonstrates the use of **financial statistics, portfolio theory, and risk modeling** to construct and evaluate diversified portfolios. It integrates classical econometrics with modern risk-management tools and provides a full quantitative workflow from data collection to interpretation.
+
+---
+
+## 📘 Author
+Henry Su (2025)
